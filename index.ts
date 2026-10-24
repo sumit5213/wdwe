@@ -1,2 +1,3 @@
 console.log("Hello via Bun!");
-wdwwfwedqdqwdq
+
+console.log("heelo")
